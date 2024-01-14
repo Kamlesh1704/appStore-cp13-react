@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-image: radial-gradient(rgba(252, 178, 7, 0.872),rgba(255, 166, 0, 0.423));
+}
